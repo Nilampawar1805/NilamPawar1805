@@ -1,19 +1,70 @@
 <h1 align="center">Hi 👋, I'm Nilam Pawar</h1>
-<h3 align="center">I'm a BCA graduate with a strong interest in Data Analytics and business intelligence. I enjoy working with data, finding meaningful insights, and continuously improving my technical skills.</h3>
+<h3 align="center">BCA Graduate | Aspiring Data Analyst | Business Intelligence Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilampawar1805" alt="nilampawar1805" /></a> </p>
-
-- 📫 How to reach me **nilampawar1805@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  I enjoy turning data into clear, useful insights. I work with Python, SQL, and data visualization tools, and I’m always learning by building practical projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/nilampawar1805"><img src="https://img.shields.io/badge/GitHub-nilampawar1805-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="mailto:nilampawar1805@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nilam" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilampawar1805&show_icons=true&locale=en&layout=compact" alt="nilampawar1805" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilampawar1805&show_icons=true&locale=en" alt="nilampawar1805" /></p>
+- 🎓 BCA graduate interested in data analytics and business intelligence
+- 📊 I enjoy exploring datasets, finding patterns, and communicating insights
+- 🌱 Currently improving my skills in Python, SQL, and analytics
+- 📫 Reach me at **[nilampawar1805@gmail.com](mailto:nilampawar1805@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilampawar1805&" alt="nilampawar1805" /></p>
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## GitHub analytics
+
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=nilampawar1805&show_icons=true&include_all_commits=true&hide=contribs&theme=tokyonight&rank_icon=github" alt="GitHub stats for Nilam Pawar" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilampawar1805&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilampawar1805&theme=tokyonight" alt="GitHub contribution streak" />
+</p>
+
+### Contribution activity
+
+[![Nilam's contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=nilampawar1805&theme=tokyo-night&hide_border=true)](https://github.com/nilampawar1805)
+
+## Featured projects
+
+<!-- Replace the example repository names below with your real public repository names. -->
+
+<p align="center">
+  <a href="https://github.com/nilampawar1805/REPOSITORY-ONE">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nilampawar1805&repo=REPOSITORY-ONE&theme=tokyonight" alt="Featured project one" />
+  </a>
+  <a href="https://github.com/nilampawar1805/REPOSITORY-TWO">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nilampawar1805&repo=REPOSITORY-TWO&theme=tokyonight" alt="Featured project two" />
+  </a>
+</p>
+
+> Replace `REPOSITORY-ONE` and `REPOSITORY-TWO` in both the links and image URLs with the names of your public repositories. You can add or remove project cards as needed.
+
+## Find me online
+
+- GitHub: [@nilampawar1805](https://github.com/nilampawar1805)
+- Email: [nilampawar1805@gmail.com](mailto:nilampawar1805@gmail.com)
+
+<p align="center"><i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
+
